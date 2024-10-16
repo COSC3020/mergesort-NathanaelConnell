@@ -17,5 +17,5 @@ markdown file.
 
 For the time complexity of the code, the outer loop is is moving by two times so the complexity would be O(log n) and the inner loop is accessing and copying each element to the temp array so that is at constant time of O(n). Putting them together we get O(nlogn) and because that is best and worst case we dont need to calculate omega and we are left with big Theta (nlog n).
 
-I had ai help with how to understand the iterative version of merge sort compared to the recursive version.  
+I had psuedo code help to understand the ideas of merge sort being in place.  
 "I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice."
